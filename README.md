@@ -2,18 +2,12 @@
 
 ## About
 
-This repository contains project work for Udacity's [Deep Learning Nanodegree
-Foundation](https://udacity.com/course/nd101).
+This repository contains my project work for Udacity's [Deep Learning Nanodegree](https://udacity.com/course/nd101).
 
 ## Projects
 
-- **p1** - Neural Network: a simple ANN built from scratch with `numpy` to
-  fit bike-sharing data
-- **p2** - Image Classification: classifying images from the **CIFAR-10**
-  dataset using a convnet
-- **p3** - Generate TV Scripts: generating scripts using recurrent neural
-  networks
-- **p4** - Translate a Language: language translation with recurrent neural
-  networks
-- **p5** - Generate Faces: using generative adversarial networks to generate
-  realistic faces
+- **Predicting Bike-Sharing Patterns:** a ANN(Artificial Neural Netwrok) to predict bike-sharing patterns.
+- **Dog-Breed Classifier:** a CNN(convolutional neural networks) to classify the breed of dog
+- **Generate TV Scripts:** generate TV scripts using RNN(recurrent neural networks)
+- **Generate Faces:** generate realistic faces using GAN(generative adversarial networks)
+- **Deploying a Sentiment Analysis Model:** a web-app that uses the deployed neural network model which predicts the sentiment of a              user-provided movie review.
