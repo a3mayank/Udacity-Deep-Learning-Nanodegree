@@ -1,6 +1,6 @@
 # Udacity Deep Learning Nanodegree
 
-![alt text](https://raw.githubusercontent.com/a3mayank/Udacity-Deep-Learning-Nanodegree/branch/path/to/Udacity DeepLearning Nanodegree Certificate.png)
+![alt text](https://raw.githubusercontent.com/a3mayank/Udacity-Deep-Learning-Nanodegree/Udacity DeepLearning Nanodegree Certificate.png)
 
 ## About
 
