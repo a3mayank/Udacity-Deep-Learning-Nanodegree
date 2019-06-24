@@ -1,5 +1,7 @@
 # Udacity Deep Learning Nanodegree
 
+![alt text](https://raw.githubusercontent.com/a3mayank/Udacity-Deep-Learning-Nanodegree/branch/path/to/Udacity DeepLearning Nanodegree Certificate.png)
+
 ## About
 
 This repository contains my project work for Udacity's [Deep Learning Nanodegree](https://udacity.com/course/nd101).
